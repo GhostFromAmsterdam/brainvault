@@ -1,8 +1,11 @@
-const CACHE_NAME = 'brainvault-v2';
+const CACHE_NAME = 'brainvault-v3';
 const ASSETS = [
   '/',
   '/index.html',
   '/manifest.json',
+  '/icon-192.png',
+  '/icon-512.png',
+  '/apple-touch-icon.png',
   'https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Share+Tech+Mono&family=Rajdhani:wght@300;400;600;700&family=Cinzel:wght@400;700&display=swap'
 ];
 

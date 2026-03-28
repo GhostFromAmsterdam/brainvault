@@ -1,4 +1,13 @@
 {
+  "permissions": {
+    "allow": [
+      "Bash(node -e \":*)",
+      "Bash(convert -version)",
+      "Bash(convert icon-source.png -resize 192x192 icon-192.png)",
+      "Bash(convert icon-source.png -resize 512x512 icon-512.png)",
+      "Bash(convert icon-source.png -resize 180x180 apple-touch-icon.png)"
+    ]
+  },
   "enabledPlugins": {
     "frontend-design@claude-plugins-official": true
   }
