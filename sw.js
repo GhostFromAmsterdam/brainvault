@@ -1,4 +1,4 @@
-const CACHE_NAME = 'brainvault-v3';
+const CACHE_NAME = 'brainvault-v4';
 const ASSETS = [
   '/',
   '/index.html',
@@ -6,7 +6,7 @@ const ASSETS = [
   '/icon-192.png',
   '/icon-512.png',
   '/apple-touch-icon.png',
-  'https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Share+Tech+Mono&family=Rajdhani:wght@300;400;600;700&family=Cinzel:wght@400;700&display=swap'
+  'https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=JetBrains+Mono:wght@400;500;700&family=Rajdhani:wght@300;400;500;600;700&family=Cinzel:wght@400;700&display=swap'
 ];
 
 self.addEventListener('install', e => {
